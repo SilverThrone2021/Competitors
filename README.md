@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge_logo.svg)]([https://mybinder.org/v2/gh/SilverThrone2021/Competitors/tree/main/HEAD?labpath=https%3A%2F%2Fgithub.com%2FSilverThrone2021%2FCompetitors%2Fblob%2Fmain%2FComptitors.ipynb](https://mybinder.org/v2/gh/SilverThrone2021/Competitors/main?)https://mybinder.org/v2/gh/SilverThrone2021/Competitors/main?)
